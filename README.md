@@ -5,7 +5,7 @@
 Gra zawierająca elementy gry przygodowej, mystery, logicznej oraz horror wykonana na silniku Unreal Engine 5.1. Przeznaczona na platformę steam oraz umożliwiająca grę dla dwóch graczy przez internet z wykorzystaniem API Steam.
 
 ## Fabuła
-Kontynuacja wydarzeń z pierwszej części gry (LINK).
+Kontynuacja wydarzeń z pierwszej części gry (https://github.com/Kamien-Kowala/-GAME-EscapeRoom/blob/main/README.md).
 Ork szaman wysłał was do alternatywnego świata. Teraz musicie znaleźć drogę do domu.
 
 # Działanie gry
