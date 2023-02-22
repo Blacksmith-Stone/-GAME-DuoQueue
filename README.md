@@ -34,12 +34,12 @@
 
 ## Pojazd:
 
-### Wskaźniki zmiany współczynników pojazdu: 
+### Zegary pojazdu: 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222115035_1.png?raw=true)
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222121000_1.png?raw=true)
 
 
-### Radio pojazdu oraz wskaźnik uszkodzeń:
+### Radio oraz kontrolka uszkodzeń (Check Engine):
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222115123_1.png?raw=true)
 
 ### Interaktywny bagażnik na przedmioty:
@@ -100,7 +100,7 @@
 
 ### Na moście:
 
-![alt text]https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222123352_1.png?raw=true)
+![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222123352_1.png?raw=true)
 
 ## Kopalnie Kara’Khan
 
@@ -112,15 +112,16 @@
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222123802_1.png?raw=true)
 
-![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222124152_1.png?raw=true)
-
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222124116_1.png?raw=true)
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222123809_1.png?raw=true)
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222124146_1.png?raw=true)
 
+![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222124152_1.png?raw=true)
+
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222124309_1.png?raw=true)
+
 ## Opuszczona posiadłość w czarnym lesie
 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/image12.png?raw=true)
