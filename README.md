@@ -29,7 +29,7 @@ W lobby host może wybrać którą postacią będzie grał (Sumo/Ayaya), następ
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114141_1.png?raw=true)
 
 ## Dziennik (Notatki):
-W grze gracze mogą podnosić notatki rozrzucone po całym świecie. W każdej chwili gracze mogą wcisnąć przycisk “J” aby otworzyć dziennik. Na dole znajdują się wszystkie zebrane notatki na które można kliknąć lewym przyciskiem myszy. W polu po prawej stronie wyskoczy treść notatki.
+W grze gracze mogą podnosić notatki rozrzucone po całym świecie. W każdej chwili gracze mogą wcisnąć przycisk “J” aby otworzyć dziennik. Na dole znajdują się wszystkie zebrane notatki na które można kliknąć lewym przyciskiem myszy. W polu po prawej stronie wyskoczy treść notatki. Notatki opowiadają historie gry, zawierają opisy miejsc, wspomnienia ludzi żyjących w tym świecie, ich marzenia i przyszłe plany zapisane w postaci dzienników, sprawozdania pracowników, reklamy firm itp.
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114657_1.png?raw=true)
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114700_1.png?raw=true)
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114719_1.png?raw=true)
