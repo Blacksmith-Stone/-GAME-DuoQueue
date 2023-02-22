@@ -9,7 +9,7 @@
 ## Main Menu:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114033_1.png?raw=true)
 
-##Połączenie z hostem:
+## Połączenie z hostem:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114133_1.png?raw=true)
 
 ## Multiplayer Lobby i Wybór postaci:
@@ -18,38 +18,38 @@
 ## Samouczek:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114719_1.png?raw=true)
 
-##Przedmioty:
+## Przedmioty:
 
-###Podnoszenie przedmiotu:
+### Podnoszenie przedmiotu:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114846_1.png?raw=true)
 
-###Trzymanie przedmiotów:
+### Trzymanie przedmiotów:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222123150_1.png?raw=true)
 
-###Używanie przedmiotu:
+### Używanie przedmiotu:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222114952_1.png?raw=true)
 
-###Odkładanie do samochodu:
+### Odkładanie do samochodu:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222115005_1.png?raw=true)
 
-##Pojazd:
+## Pojazd:
 
-###Wskaźniki zmiany współczynników pojazdu: 
+### Wskaźniki zmiany współczynników pojazdu: 
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222115035_1.png?raw=true)
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222121000_1.png?raw=true)
 
 
-###Radio pojazdu oraz wskaźnik uszkodzeń:
+### Radio pojazdu oraz wskaźnik uszkodzeń:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222115123_1.png?raw=true)
 
-###Interaktywny bagażnik na przedmioty:
+### Interaktywny bagażnik na przedmioty:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222120817_1.png?raw=true)
 
-###Ujęcia z jazdy:
+### Ujęcia z jazdy:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222120702_1.png?raw=true)
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222120302_1.png?raw=true)
 
-##Dziennik:
+## Dziennik:
 ![alt text](https://github.com/Kamien-Kowala/-GAME-DuoQueue/blob/main/Screeny/480_20230222121154_1.png?raw=true)
 
 # Zdjęcia z silnika
